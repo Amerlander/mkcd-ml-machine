@@ -34,9 +34,6 @@
         "config": {
             "microbit-dal": {
                 "bluetooth": {
-                    "open": 1,
-                    "whitelist": 0,
-                    "security_level": null
                 }
             }
         }
